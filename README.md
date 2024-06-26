@@ -1,1 +1,2 @@
 # Snake-Game
+Final project for ECE417 Embedded Microprocessor System Design - Using the Altera DE1-SoC board, this project recreates the classic Snake game by integrating FPGA components such as the accelerometer (gyroscope), switches, and buttons, all synchronized through the HPS system. Players can control the game using either the gyroscope or the board's switches and buttons. Additionally, the game employs the ncurses library to enhance the visual experience with added color.
